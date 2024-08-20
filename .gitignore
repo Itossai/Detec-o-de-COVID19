@@ -1,0 +1,6 @@
+# mypy
+.mypy_cache/
+
+# pastas de imagens
+Imagens Utilizadas/
+.Imagens Utilizadas/
